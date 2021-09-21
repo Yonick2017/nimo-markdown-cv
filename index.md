@@ -1,15 +1,17 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: 段至浩
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:916536708@qq.com
+  text: 916536708@qq.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: 
+  text: 广州 丨 20岁 丨 男 丨 汉族 丨 共青团员
+phone:
+  text:18922110636
 ---
 
-# Wode **Ni**
+# 段至浩
 
 <!--
 include contact information from the front matter
